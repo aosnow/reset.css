@@ -1,0 +1,24 @@
+{
+  "name": "@mudas/reset.css",
+  "version": "0.0.1-beta",
+  "main": "reset.css",
+  "license": "MIT",
+  "author": "mudas",
+  "homepage": "https://github.com/aosnow/reset.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aosnow/reset.css"
+  },
+  "keywords": [
+    "reset",
+    "yui"
+  ],
+  "scripts": {
+    "pub": "npm publish --access=public"
+  },
+  "files": [
+    "reset.css",
+    "package.json",
+    "README.md"
+  ]
+}
