@@ -1,6 +1,6 @@
 {
   "name": "@mudas/reset.css",
-  "version": "0.0.1-beta",
+  "version": "0.0.2",
   "main": "reset.css",
   "license": "MIT",
   "author": "mudas",
